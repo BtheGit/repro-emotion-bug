@@ -5,7 +5,7 @@ npm install
 npm run start
 ```
 
-[Follow instructions to load unpacked here](https://developer.chrome.com/docs/extensions/mv3/getstarted/development-basics/#load-unpacked)
+[Follow instructions to load unpacked web extension here](https://developer.chrome.com/docs/extensions/mv3/getstarted/development-basics/#load-unpacked)
 
 In it's current form it should work fine.
 
